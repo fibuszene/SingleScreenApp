@@ -26,4 +26,10 @@ Your design must include:
 **Hours of operation** (Click to expand)
 
 
+Some Screenshots: 
+![Header](/screens/header.png)
+![Middle](/screens/middle.png)
+![Bottom](/screens/bottom.png)
+
+
 
