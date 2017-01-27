@@ -4,16 +4,29 @@
     <string name="company_name">MomCorp</string>
     <string name="company_tagline">The friendly Robot Company</string>
     <string name="about_us">About Us: </string>
-    <string name="history_description"><b>Mom\'s Friendly Robot Company</b>\r\n\r\nFounded in the mid-2920s, Mom\'s Friendly Robot Company made it big in 2972 after Mom was contracted by DOOP to mine the large deposit of dark matter in the planet Vergon 6.\r\nSince then the company has been responsible for the design and manufacture of many models of robots on Earth. These robots descend from a Sport-Utility Robot created by Professor Hubert Farnsworth in 2928, which sacrifice fuel efficiency for a robot with more flexibility.
-Mom\'s Friendly Robot Company also provides existing robots with spare parts and Mom\'s Old-Fashioned Robot Oil.
-\r\n\r\n<b>Mom\'s Friendly Delivery Company</b>\r\n\r\nThe major delivery company for Earth. Like other conglomerates it buys up and absorbs smaller competing companies such as PlanEx.
-\r\n\r\n<b>Mombil</b>\r\n\r\nResponsible for collecting and selling Dark Matter, it had a virtual monopoly on the fuel \r\nuntil it was rendered innert by the Anti-Backwards Crystal. The Name is a play on Mobil, a Gas Station Company.</string>
-    <string name="company_description">MomCorp is a major corporation owned by Mom, that dominatеs a number of industries.</string>
+    <string name="click_to_expand">Click here to expand the businesshours</string>
+
+    <string name="full_name">Mom\'s Friendly Robot Company</string>
+    <string name="full_name_description">Founded in the mid-2920s, Mom\'s Friendly Robot Company made it big in 2972 after Mom was contracted by DOOP
+        to mine the large deposit of dark matter in the planet Vergon 6.\r\nSince then the company has been responsible for the design and manufacture of many models of robots on Earth.
+        These robots descend from a Sport-Utility Robot created by Professor Hubert Farnsworth in 2928, which sacrifice fuel efficiency for a robot with more flexibility.
+        Mom\'s Friendly Robot Company also provides existing robots with spare parts and Mom\'s Old-Fashioned Robot Oil.
+    </string>
+
+    <string name="div_delivery">Mom\'s Friendly Delivery Company</string>
+    <string name="div_delivery_desc">The major delivery company for Earth. Like other conglomerates it buys up and absorbs smaller competing companies such as PlanEx.</string>
+
+    <string name="div_mombil">Mombil</string>
+    <string name="div_mombil_desc">Responsible for collecting and selling Dark Matter, it had a virtual monopoly on the fuel \r\nuntil it was rendered innert by the Anti-Backwards Crystal.
+        The Name is a play on Mobil, a Gas Station Company.</string>
+
+
+    <string name="company_description">MomCorp is a major corporation owned by Mom, that <strike>dominatеs</strike> leads a number of industries.</string>
     <string name="phonenumber">(45) 660123456789</string>
     <string name="emailadress">momcorp@noneofyourbusiness.corp</string>
     <string name="location">181 Mercer St, New New York, NNY 10012, USA</string>
     <string name="web">http://futurama.wikia.com/wiki/MomCorp</string>
-    <string name="businesshours">Businesshours</string>
+    <string name="businesshours">Businesshours\n\r(Click to expand)</string>
 
     <string name="monday">Monday</string>
     <string name="tuesday">Tuesday</string>

@@ -327,39 +327,52 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:orientation="vertical">
+                android:orientation="horizontal">
 
-                <at.fibuszene.singlescreenapp.view.CustomTextView
-                    android:id="@+id/map"
-                    style="@style/ActiontextView"
-                    android:autoLink="map"
-                    android:drawableLeft="@drawable/ic_directions_black_18dp"
-                    android:text="@string/location" />
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
 
-                <at.fibuszene.singlescreenapp.view.CustomTextView
-                    android:id="@+id/phone"
-                    style="@style/ActiontextView"
-                    android:autoLink="phone"
-                    android:drawableLeft="@drawable/ic_call_black_18dp"
-                    android:text="@string/phonenumber" />
+                    <at.fibuszene.singlescreenapp.view.CustomTextView
+                        android:id="@+id/map"
+                        style="@style/ActiontextView"
+                        android:autoLink="map"
+                        android:drawableLeft="@drawable/ic_directions_black_18dp"
+                        android:text="@string/location" />
+
+                    <at.fibuszene.singlescreenapp.view.CustomTextView
+                        android:id="@+id/phone"
+                        style="@style/ActiontextView"
+                        android:autoLink="phone"
+                        android:drawableLeft="@drawable/ic_call_black_18dp"
+                        android:text="@string/phonenumber" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <at.fibuszene.singlescreenapp.view.CustomTextView
+                        android:id="@+id/web"
+                        style="@style/ActiontextView"
+                        android:autoLink="web"
+                        android:drawableLeft="@drawable/ic_language_black_18dp"
+                        android:text="@string/web" />
 
 
-                <at.fibuszene.singlescreenapp.view.CustomTextView
-                    android:id="@+id/web"
-                    style="@style/ActiontextView"
-                    android:autoLink="web"
-                    android:drawableLeft="@drawable/ic_language_black_18dp"
-                    android:text="@string/web" />
+                    <at.fibuszene.singlescreenapp.view.CustomTextView
+                        android:id="@+id/mail"
+                        style="@style/ActiontextView"
+                        android:autoLink="email"
+                        android:drawableLeft="@drawable/ic_email_black_18dp"
+                        android:text="@string/emailadress" />
 
-
-                <at.fibuszene.singlescreenapp.view.CustomTextView
-                    android:id="@+id/mail"
-                    style="@style/ActiontextView"
-                    android:autoLink="email"
-                    android:drawableLeft="@drawable/ic_email_black_18dp"
-                    android:text="@string/emailadress" />
-
-
+                </LinearLayout>
             </LinearLayout>
         </LinearLayout>
     </android.support.v4.widget.NestedScrollView>
