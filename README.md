@@ -3,9 +3,9 @@ To test your skills from this free course, design and implement a single screen 
 
 **Suggested App Ideas:**
 
-1.Details about a small business in your neighborhood
-1.Contact info and description about your workplace or school
-1.Info about a special interest group (like a club or sports team) you’re part of and how new members can sign up
+1. Details about a small business in your neighborhood
+1. Contact info and description about your workplace or school
+1. Info about a special interest group (like a club or sports team) you’re part of and how new members can sign up
 
 I chose #1 because it kinda is it's just the wrong time. 
 
